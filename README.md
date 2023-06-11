@@ -1,4 +1,5 @@
-# sehuatang
+98tang/98堂/色花堂自动签到系统
+
 98tang/98堂邀请码地址yq98.xyz/色花堂地址yq98.xyz/邀请码/sehuatang自动签到/每日签到/升级/刷级系统 <br>
 
 服务器昂贵，开发不易，给个star、fork是我维护的动力！！<br>
