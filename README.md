@@ -6,7 +6,7 @@
 已经稳定运行10个月，交流、问题反馈<br>
 # 作者搭建好的98堂自动签到平台：（更新时间2023年6月）<br>
 <br>
-https://yq98.xyz/qd/<br>
+# https://yq98.xyz/qd/<br>
 <br>
 # 推荐使用Google浏览器或者Firefox浏览器<br>
 # 98堂邀请码、色花堂邀请码购买：https://www.aseh.xyz<br>
